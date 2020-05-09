@@ -318,7 +318,7 @@ void IKSolver::handleMouseCallback(float xpos, float ypos)
 /*
 * draw
 *
-* @tbrief Called every game loop d raw iteration, render the scene to the wwindow.
+* @tbrief Called every game loop's draw iteration, render the scene to the window.
 */
 void IKSolver::draw()
 {
