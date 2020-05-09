@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "engine", "engine\engine.vcxproj", "{BD3237A4-DBF1-4F18-87B5-126F781B556D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IKSolver", "IKSolver\IKSolver.vcxproj", "{2ED7311E-9895-45F6-962E-03BB0BEACA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3237A4-DBF1-4F18-87B5-126F781B556D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD3237A4-DBF1-4F18-87B5-126F781B556D}.Debug|Win32.Build.0 = Debug|Win32
+		{BD3237A4-DBF1-4F18-87B5-126F781B556D}.Release|Win32.ActiveCfg = Release|Win32
+		{BD3237A4-DBF1-4F18-87B5-126F781B556D}.Release|Win32.Build.0 = Release|Win32
+		{2ED7311E-9895-45F6-962E-03BB0BEACA49}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2ED7311E-9895-45F6-962E-03BB0BEACA49}.Debug|Win32.Build.0 = Debug|Win32
+		{2ED7311E-9895-45F6-962E-03BB0BEACA49}.Release|Win32.ActiveCfg = Release|Win32
+		{2ED7311E-9895-45F6-962E-03BB0BEACA49}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97016524-2148-4851-BE42-0F0BF1ECBDDA}
+	EndGlobalSection
+EndGlobal
